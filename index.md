@@ -10,5 +10,5 @@ sitemap:
 
 <div id="describe-text">
 	<p>欢迎来到我的世界,这里没有你想要的东西,请去别人的世界吧</p>
-	<p>微笑面对生活 <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<p>微笑面对生活 <strong> <a href="https://github.com/minghugo/minghugo.github.io"> repository</a> </strong></p>
 </div>
