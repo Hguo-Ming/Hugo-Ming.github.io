@@ -5,9 +5,9 @@
     font-size: 100%;
     color: #012;
     background-color: #FFF; 
-    background-image: url(Myblog\assets\img\ming.jpg);
-  }
-  a {
+    background-image: url(Myblog\assets\img\ming.jpg);}
+  
+    a {
     color: #57A;
     font-weight: bold;
     text-decoration: none; }
