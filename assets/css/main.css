@@ -4,8 +4,9 @@
     font-family: 'Quicksand', sans-serif;  
     font-size: 100%;
     color: #012;
-    background-color: #FFF; }
-
+    background-color: #FFF; 
+    background-image: url(\assets\img\ming.jpg);
+  }
   a {
     color: #57A;
     font-weight: bold;
