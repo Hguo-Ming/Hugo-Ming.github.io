@@ -6,7 +6,7 @@
     color: #4682B4;
     background-color: #FFF; 
     background-image: url("../img/ming.jpg");
-    cursor: url("../img/mouse1.png");
+    cursor: url("../img/mouse1.png"),default;
     }
   
     a {
@@ -15,7 +15,7 @@
     text-decoration: none; }
 
     a :active {
-      cursor: url("../img/mouse2.png");
+      cursor: url("../img/mouse2.png"),default;
     }
 
   p, ul, ol, dl {
