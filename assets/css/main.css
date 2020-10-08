@@ -6,12 +6,17 @@
     color: #4682B4;
     background-color: #FFF; 
     background-image: url("../img/ming.jpg");
+    cursor: url("../img/鼠标点击1.png");
     }
   
     a {
     color: #4682B4;
     font-weight: bold;
     text-decoration: none; }
+
+    a :active {
+      cursor: url("../img/鼠标点击2.png");
+    }
 
   p, ul, ol, dl {
     font-size: 100%;
