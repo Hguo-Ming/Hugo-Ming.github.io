@@ -8,13 +8,14 @@
     background-image: url("../img/ming.jpg");}
   
     a {
-    color: #57A;
+    color: lightblue;
     font-weight: bold;
     text-decoration: none; }
 
   p, ul, ol, dl {
     font-size: 100%;
-    line-height: 32px; }
+    line-height: 32px;
+    color: WhiteSmoke; }
 
   img {
     display: block;
@@ -59,7 +60,7 @@
   .logo {
     font-size: 300%;
     font-weight: 700;
-    color: #16a085;
+    color: #FFF ;
     display: block; }
 
   .menu {
@@ -97,12 +98,12 @@
   .page-title__text {
     font-weight: 700;
     font-size: 150%; 
-    color: white;}
+    color:#fffff0;}
 
   .page-title__subtitle {
     font-weight: 400;
     font-size: 75%;
-    color: #FFF; }
+    color: #fffff0; }
 
 /* =Post teasers *//*************************************************************/
   .list-posts {
@@ -121,7 +122,7 @@
     font-size: 100%;
     float: right;
     vertical-align: middle;
-    color: #FFF; }
+    color: #fff; }
 
   .post-teaser__month {
     width: 100%;
